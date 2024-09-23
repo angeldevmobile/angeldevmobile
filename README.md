@@ -10,7 +10,8 @@ Mi Repositorio Personal que tengo como programador.👨‍💻
 ⚡ Dato curioso: Me encanta jugar futbol y me gusta mucho programar y investigar nuevas tecnologías y aplicarlas.
 
 Contáctame por: 
-!LinkedIn
+https://www.linkedin.com/in/gabriel-zapata-239501287/
+
 
 
 
