@@ -36,8 +36,7 @@ Un apasionado programador de Perú.
 
 ## Contáctame:
 
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
+- [LinkedIn](https://linkedin.com/in/gabriel-zapata-239501287/)
 - [Email](mailto:zapata.axuariogabriel@gmail.com)
 
 ---
