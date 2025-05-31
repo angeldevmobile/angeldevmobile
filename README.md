@@ -10,12 +10,31 @@
 
 ### 🚀 Sobre mí
 
-- 🌍 Vivo en Perú
-- 💼 Trabajo en BBVA como desarrollador
-- 📱 Aprendiendo **Flutter** y **SwiftUI**
-- 🤝 Buscando colaborar en proyectos interesantes
-- 🎯 Enfocado en mejorar día a día
-- ⚽ Me encanta jugar fútbol y explorar nuevas tecnologías
+- 🌍 Vivo en Perú  
+- 💼 Trabajo en BBVA como desarrollador  
+- 📱 Aprendiendo **Flutter** y **SwiftUI**  
+- 🤝 Buscando colaborar en proyectos interesantes  
+- 🎯 Enfocado en mejorar día a día  
+- ⚽ Me encanta jugar fútbol y explorar nuevas tecnologías  
+
+---
+
+### 🚧 En qué estoy trabajando ahora
+
+| Proyecto | Descripción |
+|---------|-------------|
+| 🎧 **Music App** | App móvil con **React (TSX)** + **Firebase** + **PostgreSQL** para streaming musical. UX moderna y escalabilidad en mente. |
+| 🤖 **Asistente Virtual IA** | Chatbot inteligente con integración de modelos de lenguaje para soporte conversacional avanzado. |
+
+---
+
+💡 Siempre explorando nuevas tecnologías para aplicarlas en proyectos reales.
+
+---
+
+### 🎓 Certificaciones
+
+- 🧠 [IBM Mainframe Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ER0D3LXLFV5A) – *Coursera | IBM*
 
 ---
 
@@ -68,7 +87,3 @@
 > *"El mejor código es aquel que no se necesita explicar."*
 
 ---
-
-
-
-
