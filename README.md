@@ -1,6 +1,6 @@
 <!-- Encabezado con animación typing -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hola, soy Gabriel Zapata
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Gabriel Zapata | Software Developer
 </h1>
 
 <!-- Breve bio con badges -->
