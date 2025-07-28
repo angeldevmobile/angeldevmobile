@@ -1,9 +1,8 @@
 <!-- Encabezado con animación typing -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Gabriel Zapata | Full Stack Developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Angel Zapata | Full Stack Developer
 </h1>
 
-<!-- Introducción bilingüe estilizada -->
 <p>
   <b>ES:</b><br>
   Full Stack Developer con experiencia en el sector bancario, desarrollando soluciones seguras y escalables.  
