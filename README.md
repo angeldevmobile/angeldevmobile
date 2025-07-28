@@ -196,6 +196,9 @@ Editores ligeros y potentes para proyectos versátiles, desde scripts rápidos h
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&theme=tokyo-night)](https://github.com/angeldevmobile) 
 
+## 🧠 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevmobile&theme=vue)
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
