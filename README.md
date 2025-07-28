@@ -199,6 +199,9 @@ Editores ligeros y potentes para proyectos versátiles, desde scripts rápidos h
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=angeldevmobile&theme=vue)](https://github.com/angeldevmobile)
 
+## 📈 GitHub Stats
+
+![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeldevmobile&theme=vue&show_icons=true&hide_rank=false)
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
