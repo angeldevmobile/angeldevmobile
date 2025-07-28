@@ -3,38 +3,30 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Gabriel Zapata | Full Stack Developer
 </h1>
 
-<!-- Introducción bilingüe -->
-<p align="center">
+<!-- Introducción bilingüe estilizada -->
+<p>
   <b>ES:</b><br>
   Full Stack Developer con experiencia en el sector bancario, desarrollando soluciones seguras y escalables.  
   Especializado en <b>Flutter</b>, <b>Python</b> y <b>Cloud Computing</b>, aplico estas tecnologías tanto en entornos financieros  
-  como en proyectos personales y de innovación. Apasionado por la <b>IA</b> y la <b>automatización de procesos</b> para crear software eficiente.
-
-  <br><br>
-
-  <b>EN:</b><br>
-  Full Stack Developer with experience in the banking sector, building secure and scalable solutions.  
-  Specialized in <b>Flutter</b>, <b>Python</b>, and <b>Cloud Computing</b>, I apply these technologies in both financial environments  
-  and personal/innovative projects. Passionate about <b>AI</b> and <b>process automation</b> to deliver efficient software.
+  como en proyectos personales e innovadores. Apasionado por la <b>IA</b> y la <b>automatización de procesos</b>, en constante aprendizaje de nuevas tecnologías.
 </p>
 
-<!-- Badges destacados -->
+<!-- Badges destacados centrados -->
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-Developer-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-Driven-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 Sobre mí
-
-- 🌍 Vivo en Perú  
-- 💼 Desarrollador en **BBVA**  
-- 📱 Aprendiendo **Flutter** y **SwiftUI**  
-- 🤝 Buscando colaborar en proyectos interesantes  
-- 🎯 Enfocado en mejorar día a día  
-- ⚽ Fan del fútbol y explorador de nuevas tecnologías  
-
+- 💼 Experiencia en proyectos del sector bancario y soluciones multiplataforma  
+- 📱 Especializado en desarrollo móvil y web con Flutter y Python  
+- 🤝 Buscando colaborar en proyectos interesantes e innovadores  
+- 🌱 En constante aprendizaje de nuevas tecnologías y buenas prácticas  
+- 🎯 Enfocado en mejorar la experiencia del usuario y optimizar procesos  
+- ⚽ Fan del fútbol y entusiasta de la exploración tecnológica  
 ---
 
 ## 🛠 Stack Tecnológico
