@@ -135,6 +135,33 @@ Frameworks y herramientas que uso para construir arquitecturas robustas, microse
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=White"/>
 </p>
+
+## 🔧 IDEs for App Development & Embedded Systems
+
+Entornos que utilizo principalmente para crear aplicaciones móviles, backend en Java o trabajar con hardware.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+## ⚗️ Data Science & Notebooks
+
+Herramientas en la nube y notebooks colaborativos que uso para scripts en Python, análisis de datos y pruebas rápidas.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+</p>
+
+## 📝 Code Editors I Keep Close
+
+Editores ligeros y potentes para proyectos versátiles, desde scripts rápidos hasta desarrollo full stack.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
 ---
 
 ## 🚧 Proyectos en los que trabajo
