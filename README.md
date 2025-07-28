@@ -4,7 +4,6 @@
 </h1>
 
 <p>
-  <b>ES:</b><br>
   Full Stack Developer con experiencia en el sector bancario, desarrollando soluciones seguras y escalables.  
   Especializado en <b>Flutter</b>, <b>Python</b> y <b>Cloud Computing</b>, aplico estas tecnologías tanto en entornos financieros  
   como en proyectos personales e innovadores. Apasionado por la <b>IA</b> y la <b>automatización de procesos</b>, en constante aprendizaje de nuevas tecnologías.
