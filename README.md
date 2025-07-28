@@ -195,7 +195,7 @@ Editores ligeros y potentes para proyectos versátiles, desde scripts rápidos h
 ---
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&theme=tokyo-night)](https://github.com/angeldevmobile) 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeldevmobile&theme=tokyo-night)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeldevmobile&theme=tokyo-night)
 
 ## 📊 Estadísticas de GitHub
 
