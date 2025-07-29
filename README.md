@@ -185,11 +185,10 @@ Editores ligeros y potentes para proyectos versátiles, desde scripts rápidos h
 
 ## 🚧 Proyectos en los que trabajo
 
-| Proyecto | Descripción |
-|---------|-------------|
-| 🎧 **Music App** | App móvil con **React (TSX)** + **Firebase** + **PostgreSQL** para streaming musical. UX moderna y escalabilidad en mente. |
-| 🤖 **Asistente Virtual IA** | Chatbot inteligente con integración de modelos de lenguaje para soporte conversacional avanzado. |
-
+| Proyecto | Descripción | Progreso |
+|----------|-------------|----------|
+| 🎧 **Music App** | App móvil con **React (TSX)** + **Firebase** + **PostgreSQL** para streaming musical. UX moderna y escalabilidad en mente. | `██████████░░░░░░` 60% |
+| 🤖 **Asistente Virtual IA** | Chatbot inteligente con integración de modelos de lenguaje para soporte conversacional avanzado. | `████████████████` 100% ✅ [🌐 Disponible aquí](https://assistant-gem-virtual.onrender.com) |
 ---
 
 ## 🎓 Certificaciones
