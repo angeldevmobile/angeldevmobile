@@ -191,10 +191,13 @@ Editores ligeros y potentes para proyectos versátiles, desde scripts rápidos h
 | 🤖 **Asistente Virtual IA** | Chatbot inteligente con integración de modelos de lenguaje para soporte conversacional avanzado. | `████████████████` 100% ✅ [🌐 Disponible aquí](https://assistant-gem-virtual.onrender.com) |
 ---
 
-## 🎓 Certificaciones
+## 🎓 Certificaciones Profesionales
 
-- 🧠 [IBM Mainframe Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ER0D3LXLFV5A) – *Coursera | IBM*
+- 🧠 [IBM Mainframe Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ER0D3LXLFV5A) – *Coursera | IBM*  
+  *Formación intensiva en programación COBOL, gestión de datos en z/OS, TSO/ISPF y prácticas de desarrollo en entornos empresariales. Ideal para roles técnicos en sectores financieros y gubernamentales.*
 
+- 📊 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NB0L73B6KQ84) – *Coursera | Google*  
+  *Cobertura completa de análisis de datos, limpieza, visualización con Tableau, uso de SQL y programación en R. Enfocado en la toma de decisiones basada en datos para roles de analista junior.*
 ---
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&theme=tokyo-night)](https://github.com/angeldevmobile) 
