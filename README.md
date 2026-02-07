@@ -5,8 +5,8 @@
 
 <p align="center">
   Full Stack Developer con experiencia en el sector bancario, desarrollando soluciones seguras y escalables.<br/>
-  Especializado en <b>Flutter</b>, <b>Python</b> y <b>Cloud Computing</b>, aplico estas tecnologías tanto en entornos financieros<br/>
-  como en proyectos personales e innovadores. Apasionado por la <b>IA</b> y la <b>automatización de procesos</b>, en constante aprendizaje de nuevas tecnologías.
+  Especializado en <b>Flutter</b>, <b>Python</b> y <b>Cloud Computing</b>. Fundador de <b>Orion AI</b> y creador del lenguaje <b>Orion</b>.<br/>
+  Apasionado por la <b>IA</b>, <b>automatización de procesos</b> y <b>desarrollo de compiladores</b>, en constante aprendizaje de nuevas tecnologías.
 </p>
 
 <!-- Badges destacados centrados -->
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Full_Stack-Developer-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-Driven-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Compiler-Design-9146FF?style=for-the-badge&logo=llvm&logoColor=white"/>
 </p>
 
 ---
@@ -21,6 +22,8 @@
 ## 🚀 Sobre mí
 - 💼 Experiencia en proyectos del sector bancario y soluciones multiplataforma  
 - 📱 Especializado en desarrollo móvil y web con Flutter y Python  
+- 🚀 Fundador de **Orion AI** - Startup de plataforma web con IA generativa  
+- ⚡ Creando **Orion Language** - Lenguaje de programación interpretado moderno  
 - 🤝 Buscando colaborar en proyectos interesantes e innovadores  
 - 🌱 En constante aprendizaje de nuevas tecnologías y buenas prácticas  
 - 🎯 Enfocado en mejorar la experiencia del usuario y optimizar procesos  
@@ -173,11 +176,48 @@
 
 ## 🚧 Proyectos Destacados
 
-| Proyecto | Descripción | Stack | Progreso |
-|----------|-------------|-------|----------|
-| 🎧 **Music App** | App móvil para streaming musical con autenticación, playlists y reproductor en tiempo real. | React Native, Firebase, PostgreSQL | ![60%](https://progress-bar.dev/60) |
-| 🤖 **Asistente Virtual IA** | Chatbot inteligente con procesamiento de lenguaje natural y respuestas contextuales. | Python, FastAPI, LangChain | ![100%](https://progress-bar.dev/100) ✅ [Demo](https://assistant-gem-virtual.onrender.com) |
-| 📋 **Gestión de Planillas** | Sistema web para administración de nóminas con roles, permisos y reportes automáticos. | Flutter Web, Spring Boot, PostgreSQL | ![100%](https://progress-bar.dev/100) ✅ [Demo](https://deploy-flutter-planilla.onrender.com) |
+<table>
+<thead>
+  <tr>
+    <th>Proyecto</th>
+    <th>Descripción</th>
+    <th>Stack</th>
+    <th>Estado</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>🚀 <b>Orion AI Platform</b></td>
+    <td>Startup - Plataforma web de IA generativa con múltiples modelos y herramientas de automatización.</td>
+    <td>Python, FastAPI, React, PostgreSQL, LangChain</td>
+    <td>🚀 <b>En desarrollo activo</b></td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Orion Language</b></td>
+    <td>Lenguaje de programación interpretado con sintaxis moderna y enfoque en simplicidad.</td>
+    <td>Python, ANTLR, Compiladores</td>
+    <td>🔨 <b>Creando intérprete</b></td>
+  </tr>
+  <tr>
+    <td>🎧 <b>Music App</b></td>
+    <td>App móvil para streaming musical con autenticación, playlists y reproductor en tiempo real.</td>
+    <td>React Native, Firebase, PostgreSQL</td>
+    <td>⏳ 60% completado</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Asistente Virtual IA</b></td>
+    <td>Chatbot inteligente con procesamiento de lenguaje natural y respuestas contextuales.</td>
+    <td>Python, FastAPI, LangChain</td>
+    <td>✅ <a href="https://assistant-gem-virtual.onrender.com">Demo en vivo</a></td>
+  </tr>
+  <tr>
+    <td>📋 <b>Gestión de Planillas</b></td>
+    <td>Sistema web para administración de nóminas con roles, permisos y reportes automáticos.</td>
+    <td>Flutter Web, Spring Boot, PostgreSQL</td>
+    <td>✅ <a href="https://deploy-flutter-planilla.onrender.com">Demo en vivo</a></td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
@@ -228,7 +268,7 @@
 ## 🏆 Logros de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angeldevmobile&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=angeldevmobile&theme=tokyonight&no-frame=false&row=1&column=7" alt="trophies"/>
 </p>
 
 ## 📈 Gráfico de Actividad
