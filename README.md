@@ -91,6 +91,87 @@ Cross-platform music streaming application with real-time playback, social featu
 
 ---
 
+## ⚡ Orion Language Vision
+
+> **Building a modern programming language focused on simplicity, power, and developer experience**
+
+Orion is designed to make complex tasks simple while maintaining the power and flexibility developers need. Here's a glimpse of what Orion code looks like:
+
+```orion
+use code 
+use fs
+use json
+
+trace_start("ANÁLISIS DE USUARIOS")
+
+-- Leer dos fuentes de datos
+a = json.parse(fs.read("usuarios_a.json"))
+b = json.parse(fs.read("usuarios_b.json"))
+
+-- Fusionar listas de usuarios
+fusion = json.fuse(a, b)
+
+-- Extraer datos relevantes
+resumen = json.extract(fusion, ["nombre", "edad", "pais"])
+show("Resumen: ", resumen)
+
+-- Validar estructura
+es_valido = json.validate(fusion[0], {"nombre": str, "edad": int})
+show("Estructura válida: ", es_valido)
+
+trace_end("ANÁLISIS DE USUARIOS")
+```
+
+### 🎯 Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Developer-Friendly Syntax**
+- Clean and intuitive
+- Spanish-friendly keywords support
+- Minimal boilerplate
+- Expressive and readable
+
+**📦 Built-in Standard Library**
+- File system operations (`fs`)
+- JSON manipulation (`json`)
+- Code introspection (`code`)
+- Native debugging tools
+
+</td>
+<td width="50%">
+
+**⚡ Performance & Power**
+- Bytecode compilation
+- Optimized VM runtime
+- Efficient memory management
+- Fast execution
+
+**🔧 Modern Features**
+- First-class functions
+- Pattern matching
+- Type inference
+- Metaprogramming capabilities
+
+</td>
+</tr>
+</table>
+
+### 💡 Why Orion?
+
+```typescript
+const orionPhilosophy = {
+  simplicity: "Complex tasks should be simple to write",
+  clarity: "Code should be self-documenting",
+  power: "Simple syntax shouldn't limit capabilities",
+  community: "Built with developer feedback in mind"
+}
+```
+
+---
+
 ## 💻 Technical Skills
 
 <details open>
