@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Angel Zapata
+#  Angel Zapata
 
-### `Founder & Lead Developer @ Orion AI`
+### `Software Developer | Building Orion AI Platform`
 
 <p>
 <i>Building AI-powered platforms | Creating programming languages | Architecting scalable fintech solutions</i>
@@ -36,12 +36,12 @@ AI-powered platform integrating multiple LLM models with automation tools and in
 - Database: `PostgreSQL` `Prisma ORM`
 - AI: `OpenAI GPT` `Anthropic Claude`
 
-**Status:** 🔨 Active Development
+**Status:**  Active Development
 
 </td>
 <td width="50%">
 
-### ⚡ Orion Language
+###  Orion Language
 **`Language Designer & Core Developer`**
 
 Modern interpreted programming language with clean syntax, built-in concurrency, and powerful metaprogramming.
@@ -51,7 +51,7 @@ Modern interpreted programming language with clean syntax, built-in concurrency,
 - Compiler: `Custom Parser` `AST`
 - Runtime: `Bytecode VM`
 
-**Status:** 🎯 Interpreter Phase
+**Status:**  Interpreter Phase
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Modern interpreted programming language with clean syntax, built-in concurrency,
 <tr>
 <td width="50%">
 
-### 🎧 Music Streaming App
+###  Music Streaming App
 **`Full Stack Developer`**
 
 Cross-platform music streaming application with real-time playback, social features, and personalized recommendations.
@@ -69,19 +69,19 @@ Cross-platform music streaming application with real-time playback, social featu
 - Backend: `Firebase` `PostgreSQL`
 - Features: Playlists, Streaming, Social
 
-**Status:** ⏳ 60% Complete
+**Status:**  60% Complete
 
 </td>
 <td width="50%">
 
-### 💼 Professional Background
+###  Professional Background
 **`Banking & Fintech`**
 
-- 🏦 Secure payment systems
-- 🔐 Compliance & security solutions
-- 📊 Financial data processing
-- ⚡ High-performance APIs
-- 🌐 Microservices architecture
+-  Secure payment systems
+-  Compliance & security solutions
+-  Financial data processing
+-  High-performance APIs
+-  Microservices architecture
 
 **Experience:** Enterprise-grade applications
 
@@ -122,19 +122,19 @@ show("Estructura válida: ", es_valido)
 trace_end("ANÁLISIS DE USUARIOS")
 ```
 
-### 🎯 Key Features
+###  Key Features
 
 <table>
 <tr>
 <td width="50%">
 
-**🚀 Developer-Friendly Syntax**
+** Developer-Friendly Syntax**
 - Clean and intuitive
 - Spanish-friendly keywords support
 - Minimal boilerplate
 - Expressive and readable
 
-**📦 Built-in Standard Library**
+** Built-in Standard Library**
 - File system operations (`fs`)
 - JSON manipulation (`json`)
 - Code introspection (`code`)
@@ -143,13 +143,13 @@ trace_end("ANÁLISIS DE USUARIOS")
 </td>
 <td width="50%">
 
-**⚡ Performance & Power**
+** Performance & Power**
 - Bytecode compilation
 - Optimized VM runtime
 - Efficient memory management
 - Fast execution
 
-**🔧 Modern Features**
+** Modern Features**
 - First-class functions
 - Pattern matching
 - Type inference
@@ -159,7 +159,7 @@ trace_end("ANÁLISIS DE USUARIOS")
 </tr>
 </table>
 
-### 💡 Why Orion?
+###  Why Orion?
 
 ```typescript
 const orionPhilosophy = {
@@ -172,10 +172,10 @@ const orionPhilosophy = {
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br/>
 
 **Frameworks & Libraries**
@@ -204,7 +204,7 @@ Redux • Context API • Zustand • MobX
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b> Backend Development</b></summary>
 <br/>
 
 **Runtime & Frameworks**
@@ -261,7 +261,7 @@ Prisma • TypeORM • Sequelize • Mongoose • SQLAlchemy
 </details>
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b> AI & Machine Learning</b></summary>
 <br/>
 
 **LLM Integration**
@@ -373,7 +373,7 @@ Jira • Trello • Notion • Linear
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -389,7 +389,7 @@ Jira • Trello • Notion • Linear
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 <div align="center">
 
@@ -397,7 +397,7 @@ Jira • Trello • Notion • Linear
 <tr>
 <td align="center" width="50%">
 
-### 🎖️ Professional Certifications
+###  Professional Certifications
 
 | Certification | Issuer | Skills |
 |:-------------|:-------|:-------|
@@ -407,7 +407,7 @@ Jira • Trello • Notion • Linear
 </td>
 <td align="center" width="50%">
 
-### 📈 GitHub Metrics
+###  GitHub Metrics
 
 <img src="https://github-readme-stats.vercel.app/api?username=angeldevmobile&show_icons=true&count_private=true&hide=issues&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&custom_title=Overall+Stats" width="400"/>
 
@@ -419,7 +419,7 @@ Jira • Trello • Notion • Linear
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 ```yaml
 Advanced Topics:
@@ -438,13 +438,13 @@ Next Goals:
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 <table>
 <tr>
 <td width="33%">
 
-### 🚀 Startup Founder
+###  Startup Founder
 **Orion AI**
 
 - Platform architecture
@@ -466,7 +466,7 @@ Next Goals:
 </td>
 <td width="33%">
 
-### 💻 Full Stack Dev
+###  Full Stack Dev
 **Multiple Projects**
 
 - Mobile apps
@@ -480,7 +480,7 @@ Next Goals:
 
 ---
 
-## 🎯 What I Do Best
+##  What I Do Best
 
 ```typescript
 interface Developer {
@@ -516,7 +516,7 @@ const angelZapata: Developer = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -530,7 +530,7 @@ const angelZapata: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
 [![Email](https://img.shields.io/badge/Gmail-Drop_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zapata.axuariogabriel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_my_work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://angel-dev-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check_my_work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-angel-dev.onrender.com/)
 
 <br/>
 
