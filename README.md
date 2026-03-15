@@ -2,7 +2,7 @@
 
 # Angel Zapata
 
-### Software Developer · Full Stack & Backend
+### Software Developer · Full Stack
 
 <p><i>Building real products — AI platforms, financial systems, and developer tools</i></p>
 
