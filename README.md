@@ -19,7 +19,7 @@
 
 ## About me
 
-I'm a Full Stack and Backend developer focused on building scalable, production-ready applications. I work mainly with TypeScript, Python, and Dart — and I care a lot about clean architecture and developer experience.
+I'm a Full Stack and Backend developer focused on building scalable, production-ready applications. I work mainly with TypeScript, Python, and Dart and I care a lot about clean architecture and developer experience.
 
 Currently building **Orion**, an AI-powered platform and a custom programming language as a side project.
 
