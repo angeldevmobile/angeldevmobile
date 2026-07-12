@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ HEADER ANIMADO ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Angel%20Zapata&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Fintech&descAlignY=55&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Angel Zapata — Full Stack Developer"/>
 
 <!-- ============ TYPING EFFECT ============ -->
 <a href="https://github.com/angeldevmobile">
