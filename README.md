@@ -139,10 +139,11 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=angeldevmobile&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=34d399&text_color=8b949e&ring_color=22d3ee&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angeldevmobile&hide_border=true&background=00000000&ring=22d3ee&fire=34d399&currStreakLabel=22d3ee&currStreakNum=ffffff&sideNums=22d3ee&sideLabels=8b949e&dates=8b949e" alt="Streak"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevmobile&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=8b949e&langs_count=6&hide=html,css" alt="Top Langs"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&bg_color=00000000&color=22d3ee&line=34d399&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
