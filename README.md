@@ -5,29 +5,28 @@
 
 <!-- ============ TYPING EFFECT ============ -->
 <a href="https://github.com/angeldevmobile">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F85D7F&center=true&vCenter=true&width=600&lines=Building+Orion+%E2%80%94+AI+Platform+%26+Language;TypeScript+%C2%B7+Python+%C2%B7+Dart;Banking+%26+Fintech+Background;Clean+Architecture+Enthusiast;Build+things+that+matter%2C+ship+things+that+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Orion+%E2%80%94+AI+Platform+%26+Language;TypeScript+%C2%B7+Python+%C2%B7+Dart;Banking+%26+Fintech+Background;Clean+Architecture+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ============ BADGES SOCIALES ============ -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-angel-dev.onrender.com/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zapata.axuariogabriel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://portfolio-angel-dev.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:zapata.axuariogabriel@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=angeldevmobile&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=angeldevmobile&color=22d3ee&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ME (con soporte dark/light) ============ -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+## About me
 
 ```typescript
 const angel = {
   role: "Full Stack & Backend Developer",
-  location: "Perú 🇵🇪",
+  location: "Perú",
   languages: ["TypeScript", "Python", "Dart"],
   currentFocus: "Orion — AI Platform & custom programming language",
   background: "Banking & Fintech: secure payments, compliance, high-perf APIs",
@@ -37,29 +36,38 @@ const angel = {
 
 <br/>
 
-<!-- ============ PROYECTOS ============ -->
-## 🚀 What I'm building
+## What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Orion AI Platform
+### Orion AI Platform
+
 Plataforma con múltiples LLMs y workflows de automatización.
 
-`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma` `OpenAI` `Claude`
+![React](https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
+![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=34d399)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=22d3ee)
+![Prisma](https://img.shields.io/badge/Prisma-0b1220?style=flat-square&logo=prisma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0b1220?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-0b1220?style=flat-square&logo=anthropic&logoColor=white)
 
-![Status](https://img.shields.io/badge/status-active_development-success?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-34d399?style=flat-square&labelColor=0b1220)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Orion Language
-Lenguaje interpretado moderno con sintaxis limpia, keywords en español, stdlib integrada (`fs`, `json`, `code`) y VM de bytecode propia.
+### Orion Language
 
-`Python` `ANTLR4` `Custom AST`
+Lenguaje interpretado moderno con sintaxis limpia, keywords en español, stdlib integrada y VM de bytecode propia.
 
-![Status](https://img.shields.io/badge/status-interpreter_phase-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=22d3ee)
+![ANTLR4](https://img.shields.io/badge/ANTLR4-0b1220?style=flat-square&logoColor=22d3ee)
+![Custom AST](https://img.shields.io/badge/Custom_AST-0b1220?style=flat-square&logoColor=22d3ee)
+
+![Status](https://img.shields.io/badge/STATUS-INTERPRETER_PHASE-22d3ee?style=flat-square&labelColor=0b1220)
 
 </td>
 </tr>
@@ -80,10 +88,15 @@ show("Resumen:", resumen)
 <tr>
 <td colspan="2">
 
-### 🎵 Music Streaming App
+### Music Streaming App
+
 App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
-`React Native` `TypeScript` `Firebase` `PostgreSQL` — ![Progress](https://img.shields.io/badge/progress-60%25-yellow?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-0b1220?style=flat-square&logo=react&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
+![Firebase](https://img.shields.io/badge/Firebase-0b1220?style=flat-square&logo=firebase&logoColor=34d399)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=22d3ee)
+![Progress](https://img.shields.io/badge/PROGRESS-60%25-fbbf24?style=flat-square&labelColor=0b1220)
 
 </td>
 </tr>
@@ -91,8 +104,7 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 <br/>
 
-<!-- ============ TECH STACK con iconos ============ -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -114,36 +126,25 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 **AI & Integrations**
 
-`OpenAI GPT` · `Anthropic Claude` · `LangChain` · `RAG Systems`
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-0b1220?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-0b1220?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0b1220?style=flat-square&logo=langchain&logoColor=34d399)
+![RAG](https://img.shields.io/badge/RAG_Systems-0b1220?style=flat-square&logoColor=22d3ee)
 
 </div>
 
 <br/>
 
-<!-- ============ GITHUB STATS (dark/light adaptativo) ============ -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=angeldevmobile&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=angeldevmobile&show_icons=true&hide_border=true&bg_color=ffffff&title_color=F85D7F&icon_color=F8D866&count_private=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angeldevmobile&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=angeldevmobile&theme=react&hide_border=true&background=0d1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=angeldevmobile&hide_border=true&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angeldevmobile&theme=react&hide_border=true" alt="Streak"/>
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=angeldevmobile&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=34d399&text_color=8b949e&ring_color=22d3ee&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angeldevmobile&hide_border=true&background=00000000&ring=22d3ee&fire=34d399&currStreakLabel=22d3ee&currStreakNum=ffffff&sideNums=22d3ee&sideLabels=8b949e&dates=8b949e" alt="Streak"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevmobile&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6&hide=html,css">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevmobile&layout=compact&hide_border=true&title_color=F85D7F&langs_count=6&hide=html,css">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevmobile&layout=compact&theme=react&hide_border=true&langs_count=6&hide=html,css" alt="Top Langs"/>
-</picture>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevmobile&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=8b949e&langs_count=6&hide=html,css" alt="Top Langs"/>
 
-<!-- Activity graph animado -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&bg_color=0d1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&bg_color=00000000&color=22d3ee&line=34d399&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -160,8 +161,7 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 <br/>
 
-<!-- ============ CERTIFICACIONES Y APRENDIZAJE ============ -->
-## 📜 Certifications & Learning
+## Certifications & Learning
 
 <table>
 <tr>
@@ -169,21 +169,25 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 **Certifications**
 
-- ☁️ Oracle Cloud Infrastructure 2023 Certified Foundations Associate — *Oracle*
-- 🤖 Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate — *Oracle*
-- 🐍 Python for Data Science and AI — *Coursera*
-- 🏅 IBM Mainframe Developer — *IBM · Coursera*
-- 🏅 Google Data Analytics — *Google · Coursera*
+| Certification | Issuer | Year |
+|:---|:---|:---|
+| OCI 2023 Certified Foundations Associate | Oracle | 2023 |
+| OCI 2023 AI Certified Foundations Associate | Oracle | 2023 |
+| Python for Data Science and AI | Coursera | 2024 |
+| IBM Mainframe Developer | IBM | — |
+| Google Data Analytics | Google | — |
 
 </td>
 <td width="50%" valign="top">
 
 **Currently learning**
 
-- ⚙️ Compiler design — LLVM, ANTLR4, AST optimization
-- 🦀 Rust — systems programming
-- 🧠 Advanced ML — RAG, LLM fine-tuning
-- 🌐 Distributed systems patterns
+| Topic | Focus |
+|:---|:---|
+| Compiler design | LLVM, ANTLR4, AST optimization |
+| Rust | Systems programming |
+| Advanced ML | RAG systems, LLM fine-tuning |
+| Distributed systems | Architecture patterns |
 
 </td>
 </tr>
@@ -191,21 +195,18 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 <br/>
 
-<!-- ============ CONNECT ============ -->
-## 🤝 Let's connect
+## Let's connect
 
 <div align="center">
 
 Abierto a colaborar en proyectos ambiciosos, discutir decisiones de arquitectura o simplemente hablar de tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
-[![Gmail](https://img.shields.io/badge/Gmail-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zapata.axuariogabriel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-angel-dev.onrender.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-Write_me-0b1220?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:zapata.axuariogabriel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://portfolio-angel-dev.onrender.com/)
 
 <br/>
 
 <sub><i>"Build things that matter, ship things that work."</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
