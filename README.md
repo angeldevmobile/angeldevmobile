@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ============ HEADER ANIMADO ============ -->
+<!-- ============ BANNER PERSONALIZADO ============ -->
 <img src="./banner.svg" width="100%" alt="Angel Zapata — Full Stack Developer"/>
 
 <!-- ============ TYPING EFFECT ============ -->
@@ -169,6 +169,9 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 **Certifications**
 
+- ☁️ Oracle Cloud Infrastructure 2023 Certified Foundations Associate — *Oracle*
+- 🤖 Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate — *Oracle*
+- 🐍 Python for Data Science and AI — *Coursera*
 - 🏅 IBM Mainframe Developer — *IBM · Coursera*
 - 🏅 Google Data Analytics — *Google · Coursera*
 
