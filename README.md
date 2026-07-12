@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING EFFECT ============ -->
 <a href="https://github.com/angeldevmobile">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Orion+%E2%80%94+AI+Platform+%26+Language;TypeScript+%C2%B7+Python+%C2%B7+Dart;Banking+%26+Fintech+Background;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Orion+%E2%80%94+AI+Platform+%26+Language;TypeScript+%C2%B7+Rust+%C2%B7+Python+%C2%B7+Dart;Banking+%26+Fintech+Background;Clean+Architecture+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,7 +27,7 @@
 const angel = {
   role: "Full Stack & Backend Developer",
   location: "Perú",
-  languages: ["TypeScript", "Python", "Dart"],
+  languages: ["TypeScript", "Rust", "Python", "Dart"],
   currentFocus: "Orion — AI Platform & custom programming language",
   background: "Banking & Fintech: secure payments, compliance, high-perf APIs",
   philosophy: "Build things that matter, ship things that work",
@@ -61,18 +61,21 @@ Plataforma con múltiples LLMs y workflows de automatización.
 
 ### Orion Language
 
-Lenguaje interpretado moderno con sintaxis limpia, keywords en español, stdlib integrada y VM de bytecode propia.
+Lenguaje de programación propio, escrito 100% en Rust (sin Python ni generadores de parsers). Compila a una VM de bytecode con JIT nativo vía Cranelift.
 
-![Python](https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=22d3ee)
-![ANTLR4](https://img.shields.io/badge/ANTLR4-0b1220?style=flat-square&logoColor=22d3ee)
-![Custom AST](https://img.shields.io/badge/Custom_AST-0b1220?style=flat-square&logoColor=22d3ee)
+![Rust](https://img.shields.io/badge/Rust-0b1220?style=flat-square&logo=rust&logoColor=22d3ee)
+![Cranelift JIT](https://img.shields.io/badge/Cranelift_JIT-0b1220?style=flat-square&logoColor=22d3ee)
+![Bytecode VM](https://img.shields.io/badge/Bytecode_VM-0b1220?style=flat-square&logoColor=22d3ee)
+![LSP](https://img.shields.io/badge/LSP_+_VSCode-0b1220?style=flat-square&logo=visualstudiocode&logoColor=22d3ee)
 
-![Status](https://img.shields.io/badge/STATUS-INTERPRETER_PHASE-22d3ee?style=flat-square&labelColor=0b1220)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-34d399?style=flat-square&labelColor=0b1220)
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
+
+**¿Qué es Orion?** Un lenguaje moderno de sintaxis limpia y tipado gradual (chequeo de tipos activado por defecto), con parser, VM, JIT y garbage collector propios. Incluye stdlib integrada (json, fs, net, http), servidor HTTP concurrente, motor de datos columnar (formato `.odf`, ~8× más rápido que Python en benchmarks), GUI nativa sobre egui, REPL, formatter, gestor de paquetes y tooling completo: Language Server + extensión de VSCode con hovers, diagramas y debugging.
 
 ```orion
 use json
@@ -110,7 +113,7 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,dart&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,rust,py,dart&theme=dark" alt="Languages"/>
 
 **Frontend & Mobile**
 
