@@ -1,0 +1,128 @@
+<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .card { fill: #101623; stroke: #1f2937; stroke-width: 1.5; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+
+    /* ===== Matrix rain ===== */
+    .rain { fill: #F85D7F; opacity: 0.14; font-size: 14px; }
+    .rain2 { fill: #F8D866; opacity: 0.10; font-size: 12px; }
+    .col { animation: fall 6s linear infinite; }
+    .c1 { animation-delay: 0s; }
+    .c2 { animation-delay: -1.2s; animation-duration: 7s; }
+    .c3 { animation-delay: -2.5s; animation-duration: 5s; }
+    .c4 { animation-delay: -0.7s; animation-duration: 8s; }
+    .c5 { animation-delay: -3.4s; animation-duration: 6.5s; }
+    .c6 { animation-delay: -1.8s; animation-duration: 5.5s; }
+    .c7 { animation-delay: -4.1s; animation-duration: 7.5s; }
+    .c8 { animation-delay: -2.9s; animation-duration: 6s; }
+    @keyframes fall {
+      from { transform: translateY(-340px); }
+      to   { transform: translateY(340px); }
+    }
+
+    /* ===== Glow del nombre ===== */
+    .name {
+      fill: #ffffff;
+      font-size: 52px;
+      font-weight: bold;
+      letter-spacing: 4px;
+      filter: drop-shadow(0 0 10px #F85D7F);
+      animation: pulse 3s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { filter: drop-shadow(0 0 6px #F85D7F); }
+      50%      { filter: drop-shadow(0 0 18px #F85D7F); }
+    }
+
+    .role { fill: #F85D7F; font-size: 20px; letter-spacing: 6px; }
+    .prompt { fill: #F8D866; font-size: 16px; }
+    .cmd { fill: #8b949e; font-size: 16px; }
+
+    /* ===== Typing effect ===== */
+    .typing {
+      overflow: hidden;
+      animation: typing 4s steps(40) infinite;
+    }
+    @keyframes typing {
+      0%   { width: 0; }
+      60%  { width: 520px; }
+      90%  { width: 520px; }
+      100% { width: 0; }
+    }
+
+    /* ===== Cursor parpadeante ===== */
+    .cursor { fill: #F85D7F; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* ===== Scan line ===== */
+    .scanline {
+      fill: url(#scanGradient);
+      animation: scan 4s linear infinite;
+    }
+    @keyframes scan {
+      from { transform: translateY(-40px); }
+      to   { transform: translateY(340px); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="scanGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F85D7F" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F85D7F" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#F85D7F" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="20" y="20" width="860" height="280" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- Fondo -->
+  <rect class="bg" width="900" height="320"/>
+  <rect class="card" x="20" y="20" width="860" height="280" rx="16"/>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Lluvia matrix -->
+    <g class="mono rain">
+      <text class="col c1" x="60"  y="0">1<tspan x="60" dy="20">0</tspan><tspan x="60" dy="20">$</tspan><tspan x="60" dy="20">{</tspan><tspan x="60" dy="20">1</tspan><tspan x="60" dy="20">;</tspan><tspan x="60" dy="20">0</tspan><tspan x="60" dy="20">x</tspan><tspan x="60" dy="20">}</tspan><tspan x="60" dy="20">1</tspan><tspan x="60" dy="20">0</tspan><tspan x="60" dy="20">&gt;</tspan><tspan x="60" dy="20">=</tspan><tspan x="60" dy="20">1</tspan></text>
+      <text class="col c3" x="180" y="0">0<tspan x="180" dy="20">x</tspan><tspan x="180" dy="20">A</tspan><tspan x="180" dy="20">F</tspan><tspan x="180" dy="20">0</tspan><tspan x="180" dy="20">1</tspan><tspan x="180" dy="20">%</tspan><tspan x="180" dy="20">#</tspan><tspan x="180" dy="20">0</tspan><tspan x="180" dy="20">1</tspan><tspan x="180" dy="20">C</tspan><tspan x="180" dy="20">0</tspan><tspan x="180" dy="20">D</tspan><tspan x="180" dy="20">E</tspan></text>
+      <text class="col c5" x="720" y="0">{<tspan x="720" dy="20">}</tspan><tspan x="720" dy="20">1</tspan><tspan x="720" dy="20">0</tspan><tspan x="720" dy="20">=</tspan><tspan x="720" dy="20">&gt;</tspan><tspan x="720" dy="20">0</tspan><tspan x="720" dy="20">1</tspan><tspan x="720" dy="20">$</tspan><tspan x="720" dy="20">_</tspan><tspan x="720" dy="20">1</tspan><tspan x="720" dy="20">0</tspan><tspan x="720" dy="20">;</tspan><tspan x="720" dy="20">1</tspan></text>
+      <text class="col c7" x="840" y="0">O<tspan x="840" dy="20">R</tspan><tspan x="840" dy="20">1</tspan><tspan x="840" dy="20">0</tspan><tspan x="840" dy="20">N</tspan><tspan x="840" dy="20">0</tspan><tspan x="840" dy="20">1</tspan><tspan x="840" dy="20">A</tspan><tspan x="840" dy="20">I</tspan><tspan x="840" dy="20">1</tspan><tspan x="840" dy="20">0</tspan><tspan x="840" dy="20">0</tspan><tspan x="840" dy="20">1</tspan><tspan x="840" dy="20">0</tspan></text>
+    </g>
+    <g class="mono rain2">
+      <text class="col c2" x="120" y="0">t<tspan x="120" dy="18">s</tspan><tspan x="120" dy="18">1</tspan><tspan x="120" dy="18">0</tspan><tspan x="120" dy="18">p</tspan><tspan x="120" dy="18">y</tspan><tspan x="120" dy="18">0</tspan><tspan x="120" dy="18">1</tspan><tspan x="120" dy="18">d</tspan><tspan x="120" dy="18">a</tspan><tspan x="120" dy="18">r</tspan><tspan x="120" dy="18">t</tspan><tspan x="120" dy="18">1</tspan><tspan x="120" dy="18">0</tspan><tspan x="120" dy="18">0</tspan></text>
+      <text class="col c4" x="240" y="0">1<tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">1</tspan><tspan x="240" dy="18">1</tspan><tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">1</tspan><tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">1</tspan><tspan x="240" dy="18">1</tspan><tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">1</tspan><tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">0</tspan><tspan x="240" dy="18">1</tspan></text>
+      <text class="col c6" x="660" y="0">0<tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">0</tspan><tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">0</tspan><tspan x="660" dy="18">0</tspan><tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">0</tspan><tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">1</tspan><tspan x="660" dy="18">0</tspan><tspan x="660" dy="18">0</tspan><tspan x="660" dy="18">1</tspan></text>
+      <text class="col c8" x="780" y="0">A<tspan x="780" dy="18">I</tspan><tspan x="780" dy="18">0</tspan><tspan x="780" dy="18">1</tspan><tspan x="780" dy="18">M</tspan><tspan x="780" dy="18">L</tspan><tspan x="780" dy="18">1</tspan><tspan x="780" dy="18">0</tspan><tspan x="780" dy="18">0</tspan><tspan x="780" dy="18">1</tspan><tspan x="780" dy="18">1</tspan><tspan x="780" dy="18">0</tspan><tspan x="780" dy="18">1</tspan><tspan x="780" dy="18">0</tspan><tspan x="780" dy="18">1</tspan></text>
+    </g>
+
+    <!-- Scan line -->
+    <rect class="scanline" x="20" width="860" height="40"/>
+
+    <!-- Barra de terminal -->
+    <rect x="20" y="20" width="860" height="36" rx="16" fill="#161b27"/>
+    <rect x="20" y="40" width="860" height="16" fill="#161b27"/>
+    <circle cx="48" cy="38" r="6" fill="#ff5f57"/>
+    <circle cx="70" cy="38" r="6" fill="#febc2e"/>
+    <circle cx="92" cy="38" r="6" fill="#28c840"/>
+    <text class="mono" x="450" y="43" text-anchor="middle" fill="#8b949e" font-size="13">angel@dev: ~/portfolio</text>
+
+    <!-- Nombre -->
+    <text class="mono name" x="450" y="150" text-anchor="middle">ANGEL ZAPATA</text>
+    <text class="mono role" x="450" y="185" text-anchor="middle">FULL STACK DEVELOPER</text>
+
+    <!-- Línea de terminal con typing -->
+    <g transform="translate(190, 235)">
+      <text class="mono prompt" x="0" y="0">➜ ~</text>
+      <svg x="45" y="-16" width="520" height="24">
+        <g class="typing">
+          <text class="mono cmd" x="0" y="16">building Orion — AI Platform &amp; Language_</text>
+        </g>
+      </svg>
+      <rect class="cursor" x="570" y="-13" width="9" height="18"/>
+    </g>
+
+    <!-- Stack footer -->
+    <text class="mono" x="450" y="278" text-anchor="middle" fill="#4a5568" font-size="13" letter-spacing="3">TYPESCRIPT · PYTHON · DART · AI · FINTECH</text>
+  </g>
+</svg>
