@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- ============ BANNER PERSONALIZADO ============ -->
-<img src="./banner.svg" width="100%" alt="Angel Zapata — Full Stack Developer"/>
+<!-- ============ BANNER ============ -->
+<img src="./banner.svg" width="100%" alt="Angel Zapata — Systems & Full Stack Developer"/>
 
 <!-- ============ TYPING EFFECT ============ -->
 <a href="https://github.com/angeldevmobile">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Orion+%E2%80%94+AI+Platform+%26+Language;TypeScript+%C2%B7+Rust+%C2%B7+Python+%C2%B7+Dart;Banking+%26+Fintech+Background;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Shipped+Flux+%E2%80%94+an+API+client+for+devs;Building+Orion+%E2%80%94+a+language+in+Rust;Rust+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Banking+%26+Fintech+background" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ============ BADGES SOCIALES ============ -->
+<!-- ============ SOCIAL BADGES ============ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://portfolio-angel-dev.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:zapata.axuariogabriel@gmail.com)
@@ -25,10 +25,17 @@
 
 ```typescript
 const angel = {
-  role: "Full Stack & Backend Developer",
+  role: "Systems & Full Stack Developer",
   location: "Perú",
-  languages: ["TypeScript", "Rust", "Python", "Dart"],
-  currentFocus: "Orion — AI Platform & custom programming language",
+  languages: ["Rust", "TypeScript", "Java", "Python", "Dart"],
+  stack: {
+    systems:  ["Rust", "Cranelift", "Tokio"],
+    backend:  ["Node.js", "Spring Boot", "Flask"],
+    frontend: ["React", "Next.js", "Flutter"],
+    data:     ["PostgreSQL", "Prisma"],
+  },
+  shipped:  "Flux — API client, launched on Product Hunt & Hacker News",
+  building: "Orion — a programming language written in Rust (VM, JIT, GC, 58+ stdlib modules)",
   background: "Banking & Fintech: secure payments, compliance, high-perf APIs",
   philosophy: "Build things that matter, ship things that work",
 };
@@ -36,74 +43,30 @@ const angel = {
 
 <br/>
 
-## What I'm building
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| **[Flux](https://fluxapi.dev)** · [repo](https://github.com/angeldevmobile/Flux-Post)<br/>Desktop API client & Postman alternative — AI test generation, gRPC, GraphQL, WebSocket, SSE, and a free CLI runner for CI. | `Rust` `Tauri` `TypeScript` | 🟢 **Shipped** |
+| **[Orion](https://github.com/angeldevmobile/Orion)**<br/>A programming language written in Rust — bytecode VM, Cranelift JIT, custom GC, DAP debugger, 58+ stdlib modules. | `Rust` `Cranelift` | 🟡 **Active** |
+| **Orion AI Platform**<br/>Multi-LLM automation platform, built as an application layer on top of Orion. | `React` `Node.js` `Postgres` | 🟠 **Early** |
 
-### Orion AI Platform
+**Orion ecosystem:** [VS Code extension](https://github.com/angeldevmobile/Extension-lenguaje-orion) (IntelliSense, real compiler diagnostics, debugger) · [Playground API](https://github.com/angeldevmobile/PlayGround---API) (sandboxed execution, Rust + Axum)
 
-Plataforma con múltiples LLMs y workflows de automatización.
-
-![React](https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=22d3ee)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
-![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=34d399)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=22d3ee)
-![Prisma](https://img.shields.io/badge/Prisma-0b1220?style=flat-square&logo=prisma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0b1220?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0b1220?style=flat-square&logo=anthropic&logoColor=white)
-
-![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-34d399?style=flat-square&labelColor=0b1220)
-
-</td>
-<td width="50%" valign="top">
-
-### Orion Language
-
-Lenguaje de programación propio, escrito 100% en Rust (sin Python ni generadores de parsers). Compila a una VM de bytecode con JIT nativo vía Cranelift.
-
-![Rust](https://img.shields.io/badge/Rust-0b1220?style=flat-square&logo=rust&logoColor=22d3ee)
-![Cranelift JIT](https://img.shields.io/badge/Cranelift_JIT-0b1220?style=flat-square&logoColor=22d3ee)
-![Bytecode VM](https://img.shields.io/badge/Bytecode_VM-0b1220?style=flat-square&logoColor=22d3ee)
-![LSP](https://img.shields.io/badge/LSP_+_VSCode-0b1220?style=flat-square&logo=visualstudiocode&logoColor=22d3ee)
-
-![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-34d399?style=flat-square&labelColor=0b1220)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**¿Qué es Orion?** Un lenguaje moderno de sintaxis limpia y tipado gradual (chequeo de tipos activado por defecto), con parser, VM, JIT y garbage collector propios. Incluye stdlib integrada (json, fs, net, http), servidor HTTP concurrente, motor de datos columnar (formato `.odf`, ~8× más rápido que Python en benchmarks), GUI nativa sobre egui, REPL, formatter, gestor de paquetes y tooling completo: Language Server + extensión de VSCode con hovers, diagramas y debugging.
+<details>
+<summary><b>A taste of Orion</b></summary>
 
 ```orion
 use json
 use fs
 
 data = json.parse(fs.read("users.json"))
-resumen = json.extract(data, ["nombre", "edad"])
-show("Resumen:", resumen)
+summary = json.extract(data, ["name", "age"])
+show("Summary:", summary)
 ```
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### Music Streaming App
-
-App móvil multiplataforma con reproducción en tiempo real y features sociales.
-
-![React Native](https://img.shields.io/badge/React_Native-0b1220?style=flat-square&logo=react&logoColor=22d3ee)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
-![Firebase](https://img.shields.io/badge/Firebase-0b1220?style=flat-square&logo=firebase&logoColor=34d399)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=22d3ee)
-![Progress](https://img.shields.io/badge/PROGRESS-60%25-fbbf24?style=flat-square&labelColor=0b1220)
-
-</td>
-</tr>
-</table>
+Clean syntax, gradual typing (type-checked by default), a concurrent HTTP server, and a columnar data engine (`.odf` format, ~8× faster than Python in benchmarks).
+</details>
 
 <br/>
 
@@ -113,15 +76,15 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,py,dart&theme=dark" alt="Languages"/>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=rust,ts,js,py,dart&theme=dark" alt="Languages"/>
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,graphql&theme=dark" alt="Backend"/>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&theme=dark" alt="Frontend"/>
 
 **Databases & Cloud**
 
@@ -203,7 +166,7 @@ App móvil multiplataforma con reproducción en tiempo real y features sociales.
 
 <div align="center">
 
-Abierto a colaborar en proyectos ambiciosos, discutir decisiones de arquitectura o simplemente hablar de tech.
+Open to collaborating on ambitious projects, discussing architecture decisions, or just talking tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
 [![Gmail](https://img.shields.io/badge/Gmail-Write_me-0b1220?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:zapata.axuariogabriel@gmail.com)
