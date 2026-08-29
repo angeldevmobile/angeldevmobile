@@ -163,8 +163,6 @@ Clean syntax, gradual typing (type-checked by default), a concurrent HTTP server
 <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
 <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angeldevmobile&bg_color=00000000&color=22d3ee&line=34d399&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-
 </div>
 
 <!-- ============ SNAKE ANIMATION ============ -->
@@ -182,35 +180,20 @@ Clean syntax, gradual typing (type-checked by default), a concurrent HTTP server
 
 ## Certifications & Learning
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Certifications**
 
-| Certification | Issuer | Year |
-|:---|:---|:---|
-| OCI 2023 Certified Foundations Associate | Oracle | 2023 |
-| OCI 2023 AI Certified Foundations Associate | Oracle | 2023 |
-| Python for Data Science and AI | Coursera | 2024 |
-| IBM Mainframe Developer | IBM |  |
-| Google Data Analytics | Google |  |
-
-</td>
-<td width="50%" valign="top">
+![Oracle](https://img.shields.io/badge/Oracle-OCI_Foundations_Associate_2023-0b1220?style=flat-square&logo=oracle&logoColor=22d3ee)
+![Oracle](https://img.shields.io/badge/Oracle-OCI_AI_Foundations_Associate_2023-0b1220?style=flat-square&logo=oracle&logoColor=22d3ee)
+![Coursera](https://img.shields.io/badge/Coursera-Python_for_Data_Science_and_AI_2024-0b1220?style=flat-square&logo=coursera&logoColor=22d3ee)
+![IBM](https://img.shields.io/badge/IBM-Mainframe_Developer-0b1220?style=flat-square&logo=ibm&logoColor=22d3ee)
+![Google](https://img.shields.io/badge/Google-Data_Analytics-0b1220?style=flat-square&logo=google&logoColor=22d3ee)
 
 **Currently learning**
 
-| Topic | Focus |
-|:---|:---|
-| Compiler design | LLVM, ANTLR4, AST optimization |
-| Rust | Systems programming |
-| Advanced ML | RAG systems, LLM fine-tuning |
-| Distributed systems | Architecture patterns |
-
-</td>
-</tr>
-</table>
+![Compiler design](https://img.shields.io/badge/Compiler_design-LLVM,_ANTLR4,_AST_optimization-0e7490?style=flat-square&labelColor=0b1220)
+![Rust](https://img.shields.io/badge/Rust-Systems_programming-0e7490?style=flat-square&labelColor=0b1220&logo=rust&logoColor=22d3ee)
+![Advanced ML](https://img.shields.io/badge/Advanced_ML-RAG,_LLM_fine_tuning-0e7490?style=flat-square&labelColor=0b1220)
+![Distributed systems](https://img.shields.io/badge/Distributed_systems-Architecture_patterns-0e7490?style=flat-square&labelColor=0b1220)
 
 <br/>
 
