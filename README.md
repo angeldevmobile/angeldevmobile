@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ============ BANNER ============ -->
-<img src="./banner.svg" width="100%" alt="Angel Zapata — Systems & Full Stack Developer"/>
+<img src="./banner.svg" width="100%" alt="Angel Zapata · Systems & Full Stack Developer"/>
 
 <!-- ============ TYPING EFFECT ============ -->
 <a href="https://github.com/angeldevmobile">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Shipped+Flux+%E2%80%94+an+API+client+for+devs;Building+Orion+%E2%80%94+a+language+in+Rust;Rust+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Banking+%26+Fintech+background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Shipped+Flux%2C+an+API+client+for+devs;Building+Orion%2C+a+language+in+Rust;Rust+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Banking+%26+Fintech+background" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,8 +34,8 @@ const angel = {
     frontend: ["React", "Next.js", "Flutter"],
     data:     ["PostgreSQL", "Prisma"],
   },
-  shipped:  "Flux — API client, launched on Product Hunt & Hacker News",
-  building: "Orion — a programming language written in Rust (VM, JIT, GC, 58+ stdlib modules)",
+  shipped:  "Flux · API client, launched on Product Hunt & Hacker News",
+  building: "Orion · a language written in Rust (VM, JIT, GC, 58+ stdlib modules)",
   background: "Banking & Fintech: secure payments, compliance, high-perf APIs",
   philosophy: "Build things that matter, ship things that work",
 };
@@ -45,11 +45,63 @@ const angel = {
 
 ## Projects
 
-| Project | Stack | Status |
-| :--- | :--- | :--- |
-| **[Flux](https://fluxapi.dev)** · [repo](https://github.com/angeldevmobile/Flux-Post)<br/>Desktop API client & Postman alternative — AI test generation, gRPC, GraphQL, WebSocket, SSE, and a free CLI runner for CI. | `Rust` `Tauri` `TypeScript` | 🟢 **Shipped** |
-| **[Orion](https://github.com/angeldevmobile/Orion)**<br/>A programming language written in Rust — bytecode VM, Cranelift JIT, custom GC, DAP debugger, 58+ stdlib modules. | `Rust` `Cranelift` | 🟡 **Active** |
-| **Orion AI Platform**<br/>Multi-LLM automation platform, built as an application layer on top of Orion. | `React` `Node.js` `Postgres` | 🟠 **Early** |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Flux &nbsp;![Shipped](https://img.shields.io/badge/Shipped-34d399?style=flat-square&labelColor=0b1220)
+
+Desktop API client & Postman alternative. AI test generation, gRPC, GraphQL, WebSocket, SSE, and a free CLI runner for CI.
+
+![Rust](https://img.shields.io/badge/Rust-0b1220?style=flat-square&logo=rust&logoColor=22d3ee)
+![Tauri](https://img.shields.io/badge/Tauri-0b1220?style=flat-square&logo=tauri&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
+
+[![Website](https://img.shields.io/badge/fluxapi.dev-0b1220?style=flat-square&logo=googlechrome&logoColor=22d3ee)](https://fluxapi.dev)
+[![Repo](https://img.shields.io/badge/Repo-0b1220?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/angeldevmobile/Flux-Post)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Orion &nbsp;![Active](https://img.shields.io/badge/Active-fbbf24?style=flat-square&labelColor=0b1220)
+
+A programming language written in Rust, in active development since early 2025. Bytecode VM, Cranelift JIT, custom GC, DAP debugger, 58+ stdlib modules, and 400+ automated tests.
+
+![Rust](https://img.shields.io/badge/Rust-0b1220?style=flat-square&logo=rust&logoColor=22d3ee)
+![Cranelift](https://img.shields.io/badge/Cranelift_JIT-0b1220?style=flat-square&logoColor=22d3ee)
+
+[![Repo](https://img.shields.io/badge/Repo-0b1220?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/angeldevmobile/Orion)
+[![VS Code ext](https://img.shields.io/badge/VS_Code_ext-0b1220?style=flat-square&logo=visualstudiocode&logoColor=22d3ee)](https://github.com/angeldevmobile/Extension-lenguaje-orion)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Flux Learning &nbsp;![Live](https://img.shields.io/badge/Live_·_Beta-22d3ee?style=flat-square&labelColor=0b1220)
+
+AI-powered flashcards with spaced repetition (SM-2), real-time duels, weekly leagues, and a deck marketplace. Import from PDF, YouTube or text.
+
+![Next.js](https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=nextdotjs&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
+![Supabase](https://img.shields.io/badge/Supabase-0b1220?style=flat-square&logo=supabase&logoColor=22d3ee)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0b1220?style=flat-square&logo=vercel&logoColor=22d3ee)](https://flux-learning-7g6f.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Orion AI Platform &nbsp;![Early](https://img.shields.io/badge/Early-f97316?style=flat-square&labelColor=0b1220)
+
+Multi-LLM automation platform, built as an application layer on top of Orion. Early stage, no public release yet.
+
+![React](https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=22d3ee)
+![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=22d3ee)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=22d3ee)
+
+</td>
+</tr>
+</table>
 
 **Orion ecosystem:** [VS Code extension](https://github.com/angeldevmobile/Extension-lenguaje-orion) (IntelliSense, real compiler diagnostics, debugger) · [Playground API](https://github.com/angeldevmobile/PlayGround---API) (sandboxed execution, Rust + Axum)
 
@@ -141,8 +193,8 @@ Clean syntax, gradual typing (type-checked by default), a concurrent HTTP server
 | OCI 2023 Certified Foundations Associate | Oracle | 2023 |
 | OCI 2023 AI Certified Foundations Associate | Oracle | 2023 |
 | Python for Data Science and AI | Coursera | 2024 |
-| IBM Mainframe Developer | IBM | — |
-| Google Data Analytics | Google | — |
+| IBM Mainframe Developer | IBM |  |
+| Google Data Analytics | Google |  |
 
 </td>
 <td width="50%" valign="top">
