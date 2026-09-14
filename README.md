@@ -86,7 +86,7 @@ AI-powered flashcards with spaced repetition (SM-2), real-time duels, weekly lea
 ![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=22d3ee)
 ![Supabase](https://img.shields.io/badge/Supabase-0b1220?style=flat-square&logo=supabase&logoColor=22d3ee)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0b1220?style=flat-square&logo=vercel&logoColor=22d3ee)](https://flux-learning-7g6f.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0b1220?style=flat-square&logo=vercel&logoColor=22d3ee)](https://www.flux-learning.org/)
 
 </td>
 <td width="50%" valign="top">
