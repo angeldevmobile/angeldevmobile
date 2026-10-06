@@ -12,7 +12,7 @@
 
 <!-- ============ SOCIAL BADGES ============ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://portfolio-angel-dev.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://angelzapata.dev/)
 [![Email](https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:zapata.axuariogabriel@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=angeldevmobile&color=22d3ee&style=flat-square&label=Profile+Views" alt="Profile views"/>
@@ -205,7 +205,7 @@ Open to collaborating on ambitious projects, discussing architecture decisions, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zapata-239501287/)
 [![Gmail](https://img.shields.io/badge/Gmail-Write_me-0b1220?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:zapata.axuariogabriel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://portfolio-angel-dev.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-0b1220?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://angelzapata.dev/)
 
 <br/>
 
